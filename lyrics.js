@@ -44,7 +44,7 @@ function displayResults(result) {
    
     let Div = document.createElement('div')
     Div.style.margin="0 auto";
-    Div.style.padding="0px 0px 0px 75px";
+    Div.style.padding="0px 0px 0px 20px";
     lyrics.appendChild(Div)
 
     let image = "http://direct.napster.com/imageserver/v2/albums/" + track.albumId + "/images/300x300.jpg"
