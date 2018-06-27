@@ -1,4 +1,4 @@
-const baseUrl = "http://api.napster.com/v2.2";
+const baseUrl = "https://api.napster.com/v2.2";
 const key = "MDM1ZjQ2NWEtM2E3MC00NjFmLThlMzgtNDIyMDQwMWQzNjlh";
 let url;
 
